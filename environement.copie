@@ -1,0 +1,3 @@
+PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+BASHS="/home/amine-env/bashs"
+POSTMAN="/home/amine-env/Postman/Postman/app"
