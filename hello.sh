@@ -1,1 +1,1 @@
-echo "hello ${BASHS}"
+echo "Hello Amine keep going..."
